@@ -1,0 +1,9 @@
+{
+    "IMG_WIDTH": 256,
+    "IMG_HEIGHT": 64,
+    "MAX_LABEL_LENGTH": 77,
+    "VOCAB_SIZE": 65,
+    "BATCH_SIZE": 32,
+    "CTC_TIME_STEPS": 256,
+    "BLANK_INDEX": 65
+}
